@@ -1,0 +1,557 @@
+{
+  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Matching is case-insensitive substring on JOB TITLE unless noted. Tailored for US BI, data analytics, reporting, customer insights and adjacent SQL-heavy analyst roles.",
+  "profile": {
+    "title": "NYC & New Jersey Analyst Job Tracker",
+    "subtitle": "New York City · Northern New Jersey · Analytics, CRM, Marketing & Reporting",
+    "emoji": "📊"
+  },
+  "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these case-insensitive substrings. Broad analyst/analytics terms are intentional; inspect results for irrelevant analyst roles.",
+    "include": [
+      "analyst",
+      "analytics",
+      "business intelligence",
+      "business intelligence analyst",
+      "bi analyst",
+      "data analyst",
+      "senior data analyst",
+      "reporting analyst",
+      "insights analyst",
+      "customer insights",
+      "customer analytics",
+      "customer retention",
+      "retention analyst",
+      "crm analyst",
+      "crm",
+      "marketing analyst",
+      "marketing analytics",
+      "marketing operations",
+      "digital marketing analyst",
+      "campaign analyst",
+      "growth analyst",
+      "product analyst",
+      "product analytics",
+      "commercial analyst",
+      "revenue analyst",
+      "sales analyst",
+      "sales operations analyst",
+      "customer experience analyst",
+      "customer success analyst",
+      "business analyst",
+      "business operations analyst",
+      "operations analyst",
+      "strategy analyst",
+      "performance analyst",
+      "workforce analyst",
+      "pricing analyst",
+      "market research analyst",
+      "consumer insights",
+      "audience insights",
+      "research analyst",
+      "management analyst",
+      "program analyst",
+      "data and insights",
+      "sql analyst",
+      "power bi",
+      "tableau",
+      "analytics engineer"
+    ],
+    "_exclude_comment": "Exclude internships and clearly junior/academic/support roles. Do not exclude 'engineer' generally because Analytics Engineer and BI Developer roles may be relevant.",
+    "exclude": [
+      "intern ",
+      " intern",
+      "internship",
+      "co-op",
+      "coop",
+      "trainee",
+      "apprentice",
+      "graduate scheme",
+      "graduate program",
+      "graduate programme",
+      "research assistant",
+      "lab assistant",
+      "teaching assistant",
+      "undergraduate",
+      "postdoc",
+      "postdoctoral",
+      "work-study",
+      "volunteer",
+      "unpaid"
+    ],
+    "_fuzzy_comment": "Leave fuzzy settings empty to use the exact-phrase keyword filter.",
+    "fuzzy_seniority": [],
+    "fuzzy_domain": [],
+    "fuzzy_exclude": []
+  },
+  "search_terms": {
+    "_comment": "Queries sent to job boards. Broader than title keywords; matching titles are still filtered by keywords.include.",
+    "linkedin": [
+      "analyst",
+      "business intelligence analyst",
+      "data analyst",
+      "CRM analyst",
+      "customer analytics",
+      "customer insights",
+      "customer retention analyst",
+      "marketing analyst",
+      "marketing analytics",
+      "marketing operations",
+      "campaign analyst",
+      "growth analyst",
+      "product analyst",
+      "commercial analyst",
+      "revenue analyst",
+      "sales operations analyst",
+      "business analyst",
+      "operations analyst",
+      "strategy analyst",
+      "market research analyst",
+      "consumer insights",
+      "reporting analyst",
+      "Power BI analyst",
+      "Tableau analyst",
+      "analytics engineer"
+    ],
+    "indeed": [
+      "analyst",
+      "business intelligence analyst",
+      "data analyst",
+      "CRM analyst",
+      "customer analytics",
+      "customer insights",
+      "customer retention analyst",
+      "marketing analyst",
+      "marketing analytics",
+      "marketing operations",
+      "campaign analyst",
+      "growth analyst",
+      "product analyst",
+      "commercial analyst",
+      "revenue analyst",
+      "sales operations analyst",
+      "business analyst",
+      "operations analyst",
+      "strategy analyst",
+      "market research analyst",
+      "consumer insights",
+      "reporting analyst",
+      "Power BI analyst",
+      "Tableau analyst",
+      "analytics engineer"
+    ],
+    "glassdoor": [
+      "analyst",
+      "business intelligence analyst",
+      "data analyst",
+      "CRM analyst",
+      "customer analytics",
+      "customer insights",
+      "customer retention analyst",
+      "marketing analyst",
+      "marketing analytics",
+      "marketing operations",
+      "campaign analyst",
+      "growth analyst",
+      "product analyst",
+      "commercial analyst",
+      "revenue analyst",
+      "sales operations analyst",
+      "business analyst",
+      "operations analyst",
+      "strategy analyst",
+      "market research analyst",
+      "consumer insights",
+      "reporting analyst",
+      "Power BI analyst",
+      "Tableau analyst",
+      "analytics engineer"
+    ],
+    "ziprecruiter": [
+      "analyst",
+      "business intelligence analyst",
+      "data analyst",
+      "CRM analyst",
+      "customer analytics",
+      "customer insights",
+      "customer retention analyst",
+      "marketing analyst",
+      "marketing analytics",
+      "marketing operations",
+      "campaign analyst",
+      "growth analyst",
+      "product analyst",
+      "commercial analyst",
+      "revenue analyst",
+      "sales operations analyst",
+      "business analyst",
+      "operations analyst",
+      "strategy analyst",
+      "market research analyst",
+      "consumer insights",
+      "reporting analyst",
+      "Power BI analyst",
+      "Tableau analyst",
+      "analytics engineer"
+    ],
+    "google_jobs": [
+      "analyst",
+      "business intelligence analyst",
+      "data analyst",
+      "CRM analyst",
+      "customer analytics",
+      "customer insights",
+      "customer retention analyst",
+      "marketing analyst",
+      "marketing analytics",
+      "marketing operations",
+      "campaign analyst",
+      "growth analyst",
+      "product analyst",
+      "commercial analyst",
+      "revenue analyst",
+      "sales operations analyst",
+      "business analyst",
+      "operations analyst",
+      "strategy analyst",
+      "market research analyst",
+      "consumer insights",
+      "reporting analyst",
+      "Power BI analyst",
+      "Tableau analyst",
+      "analytics engineer"
+    ],
+    "hiring_cafe": [
+      "analyst",
+      "business intelligence analyst",
+      "data analyst",
+      "CRM analyst",
+      "customer analytics",
+      "customer insights",
+      "customer retention analyst",
+      "marketing analyst",
+      "marketing analytics",
+      "marketing operations",
+      "campaign analyst",
+      "growth analyst",
+      "product analyst",
+      "commercial analyst",
+      "revenue analyst",
+      "sales operations analyst",
+      "business analyst",
+      "operations analyst",
+      "strategy analyst",
+      "market research analyst",
+      "consumer insights",
+      "reporting analyst",
+      "Power BI analyst",
+      "Tableau analyst",
+      "analytics engineer"
+    ],
+    "calcareers": [
+      "data analyst",
+      "business analyst",
+      "management analyst",
+      "program analyst"
+    ],
+    "usajobs": [
+      "data analyst",
+      "management analyst",
+      "program analyst",
+      "business intelligence"
+    ],
+    "governmentjobs": [
+      "data analyst",
+      "management analyst",
+      "performance analyst",
+      "business analyst"
+    ],
+    "workday": [
+      "analyst",
+      "business intelligence analyst",
+      "data analyst",
+      "CRM analyst",
+      "customer analytics",
+      "customer insights",
+      "customer retention analyst",
+      "marketing analyst",
+      "marketing analytics",
+      "marketing operations",
+      "campaign analyst",
+      "growth analyst",
+      "product analyst",
+      "commercial analyst",
+      "revenue analyst",
+      "sales operations analyst",
+      "business analyst",
+      "operations analyst",
+      "strategy analyst",
+      "market research analyst",
+      "consumer insights",
+      "reporting analyst",
+      "Power BI analyst",
+      "Tableau analyst",
+      "analytics engineer"
+    ]
+  },
+  "locations": {
+    "_comment": "US metro areas selected for analytics opportunities. LinkedIn geoId is intentionally blank so LinkedIn can resolve the location text. You can narrow this to NYC only if search volume is too high.",
+    "linkedin": [
+      {
+        "name": "New York City",
+        "location": "New York City Metropolitan Area, United States",
+        "geoId": ""
+      },
+      {
+        "name": "Northern New Jersey",
+        "location": "Newark, New Jersey, United States",
+        "geoId": ""
+      },
+      {
+        "name": "Jersey City",
+        "location": "Jersey City, New Jersey, United States",
+        "geoId": ""
+      }
+    ],
+    "indeed": [
+      {
+        "location": "New York, NY",
+        "country": "USA"
+      },
+      {
+        "location": "Newark, NJ",
+        "country": "USA"
+      },
+      {
+        "location": "Jersey City, NJ",
+        "country": "USA"
+      }
+    ],
+    "glassdoor": [
+      {
+        "location": "New York, NY",
+        "country": "USA"
+      },
+      {
+        "location": "Newark, NJ",
+        "country": "USA"
+      },
+      {
+        "location": "Jersey City, NJ",
+        "country": "USA"
+      }
+    ],
+    "ziprecruiter": [
+      {
+        "location": "New York, NY",
+        "country": "USA"
+      },
+      {
+        "location": "Newark, NJ",
+        "country": "USA"
+      },
+      {
+        "location": "Jersey City, NJ",
+        "country": "USA"
+      }
+    ],
+    "google_jobs": [
+      {
+        "location": "New York, NY",
+        "country": "USA"
+      },
+      {
+        "location": "Newark, NJ",
+        "country": "USA"
+      },
+      {
+        "location": "Jersey City, NJ",
+        "country": "USA"
+      }
+    ],
+    "hiring_cafe": [
+      {
+        "location": "United States"
+      }
+    ],
+    "_linkedin_partitions_comment": "Optional backfill settings. Leave empty for the standard workflow.",
+    "linkedin_partitions": {
+      "states": [],
+      "high_volume": {
+        "locations": [],
+        "day_slices": true
+      }
+    }
+  },
+  "location_filter": {
+    "_comment": "Post-filter for nationwide sources. Keep terms limited to NYC and New Jersey; location matching uses substrings.",
+    "terms": [
+      "new york city",
+      "new york, ny",
+      "new york, new york",
+      "nyc",
+      "manhattan",
+      "brooklyn",
+      "queens",
+      "bronx",
+      "staten island",
+      "jersey city",
+      "newark, nj",
+      "newark, new jersey",
+      "hoboken",
+      "weehawken",
+      "union city, nj",
+      "fort lee",
+      "edgewater, nj",
+      "secaucus",
+      "paramus",
+      "morristown, nj",
+      "iselin",
+      "woodbridge, nj",
+      "edison, nj",
+      "new brunswick, nj",
+      "princeton, nj",
+      "remote - new york",
+      "remote, new york",
+      "remote - new jersey",
+      "remote, new jersey",
+      "remote within new york",
+      "remote within new jersey"
+    ]
+  },
+  "google_jobs": {
+    "_comment": "Optional exact Google Jobs queries. Leave empty to auto-build from search_terms and locations.",
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+  "jobspy": {
+    "_comment": "Optional. Use JOBSPY_PROXIES as a GitHub Actions secret/env var if needed.",
+    "proxies": [],
+    "user_agent": ""
+  },
+  "hiring_cafe": {
+    "_comment": "HiringCafe public US route settings.",
+    "max_pages": 3
+  },
+  "employers": {
+    "_priority_comment": "Optional priority digest. Companies selected for large analytics, consulting, finance and technology teams; this is not a sponsorship guarantee.",
+    "priority": [
+      "Accenture",
+      "Deloitte",
+      "PwC",
+      "EY",
+      "KPMG",
+      "Capgemini",
+      "IBM",
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Salesforce",
+      "Adobe",
+      "JPMorgan Chase",
+      "Capital One",
+      "Citi",
+      "American Express",
+      "Bloomberg",
+      "Mastercard",
+      "Visa",
+      "Walmart",
+      "Target",
+      "Uber",
+      "Airbnb",
+      "LinkedIn",
+      "PayPal",
+      "Intuit",
+      "Wells Fargo",
+      "Bank of America",
+      "Morgan Stanley",
+      "Goldman Sachs",
+      "Verizon",
+      "T-Mobile",
+      "Comcast",
+      "PepsiCo",
+      "Unilever",
+      "L'Oreal",
+      "Estée Lauder",
+      "Pfizer",
+      "Johnson & Johnson",
+      "Merck",
+      "Colgate-Palmolive",
+      "Kraft Heinz",
+      "NBCUniversal",
+      "Warner Bros. Discovery",
+      "Publicis",
+      "Omnicom",
+      "IPG"
+    ],
+    "_exclude_comment": "Leave empty to avoid excluding analytics roles by employer industry. Priority employers are highlights, not a visa-sponsorship guarantee.",
+    "exclude": []
+  },
+  "priority_topics": {
+    "_comment": "Dashboard highlights for especially relevant titles.",
+    "terms": [
+      [
+        "Business Intelligence",
+        "business intelligence|\\bbi analyst\\b|\\bbi developer\\b|power bi"
+      ],
+      [
+        "Customer Analytics & Retention",
+        "customer analytics|customer insights|customer retention|retention analyst|crm analyst"
+      ],
+      [
+        "Reporting & Dashboards",
+        "reporting analyst|management reporting|tableau|power bi|data visualization"
+      ],
+      [
+        "SQL & Analytics Engineering",
+        "\\bsql\\b|analytics engineer|data model"
+      ],
+      [
+        "Product & Commercial Analytics",
+        "product analyst|product analytics|commercial analyst|revenue analyst"
+      ]
+    ]
+  },
+  "role_categories": {
+    "_comment": "Dashboard Role filter buckets, applied top-to-bottom to each title. [name, regex] pairs.",
+    "terms": [
+      [
+        "Business Intelligence",
+        "business intelligence|\\bbi analyst\\b|\\bbi developer\\b|power bi"
+      ],
+      [
+        "Data Analyst",
+        "data analyst|sql analyst|data and insights"
+      ],
+      [
+        "Reporting & Dashboards",
+        "reporting|tableau|data visualization|management reporting"
+      ],
+      [
+        "Customer & CRM Analytics",
+        "customer analytics|customer insights|customer retention|retention analyst|crm analyst|customer experience analyst"
+      ],
+      [
+        "Product & Marketing Analytics",
+        "product analyst|product analytics|marketing analytics|marketing analyst"
+      ],
+      [
+        "Business & Operations Analytics",
+        "business analyst|business systems analyst|operations analyst|performance analyst|workforce analyst"
+      ],
+      [
+        "Analytics Engineering",
+        "analytics engineer|decision science"
+      ]
+    ]
+  },
+  "notify": {
+    "min_fit": 75,
+    "weekly_digest": {
+      "_comment": "Optional weekly Pushover brief. Enable only if you have configured Pushover secrets and repository variable.",
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
