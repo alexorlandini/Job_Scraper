@@ -1,200 +1,168 @@
 # 🔥 LinkedIn — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-14 21:07 UTC*
+*Last updated: 2026-10-15 00:44 UTC*
 
-**42 new role(s)** since last run · 42 total in last 1h
+**34 new role(s)** since last run · 34 total in last 1h
 
-### [Financial Planning Analyst](https://www.linkedin.com/jobs/view/4477001375/) — Northbound Executive Search
+### [Service Operations Analyst II Security (Hybrid)](https://www.linkedin.com/jobs/view/4477032002/) — Weill Cornell Medicine
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $60.00/hr
+- 💰 **Salary:** $103,100.00 - $118,000.00
+- 🕒 **Posted:** 2026-10-15
+
+### [Vice President Global Risk Analytics](https://www.linkedin.com/jobs/view/4479742005/) — HSBC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-15
+
+### [Financial Analyst](https://www.linkedin.com/jobs/view/4479742135/) — Cushman & Wakefield
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $ 85,000.00 - $100,000.00
+- 🕒 **Posted:** 2026-10-15
+
+### [Investment Analytics & Trade Monitoring Manager](https://www.linkedin.com/jobs/view/4479730712/) — City National Bank
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $127,626 - $237,014 per year
+- 🕒 **Posted:** 2026-10-15
+
+### [Analyst](https://www.linkedin.com/jobs/view/4479737402/) — Walker & Dunlop
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-15
+
+### [Legal Compliance and Conflicts Analyst](https://www.linkedin.com/jobs/view/4476967073/) — Soni
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $55 - $65
+- 🕒 **Posted:** 2026-10-15
+
+### [(USA) Senior Analyst, Advanced Analytics](https://www.linkedin.com/jobs/view/4477015363/) — Walmart Connect
+- 📍 **Location:** Hoboken, NJ
+- 💰 **Salary:** $84,000.00/yr - $156,000.00/yr
 - 🕒 **Posted:** 2026-10-14
 
-### [Associate, FinCEN 314(a) Analyst](https://www.linkedin.com/jobs/view/4476687953/) — CFSB
+### [Business Analyst](https://www.linkedin.com/jobs/view/4478806570/) — NYU Langone Health
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $60,000.00/yr - $80,000.00/yr
+- 💰 **Salary:** $70,481.60 - $80,000.00 Annually
 - 🕒 **Posted:** 2026-10-14
 
-### [Experienced Analyst - Financial Institutions Group](https://www.linkedin.com/jobs/view/4476692606/) — Evercore
+### [FP&A Analyst](https://www.linkedin.com/jobs/view/4478823036/) — Orwashers Bakery
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $95,000.00/yr - $105,000.00/yr
+- 🕒 **Posted:** 2026-10-14
+
+### [Lateral Conflicts Analyst](https://www.linkedin.com/jobs/view/4476487236/) — Gibson Dunn
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $80,000.00/yr - $90,000.00/yr
 - 🕒 **Posted:** 2026-10-14
 
-### [Experienced Data Analyst – Wealth Management – New York](https://www.linkedin.com/jobs/view/4476698497/) — Evercore Wealth Management
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $90,000 - $120,000
-- 🕒 **Posted:** 2026-10-14
-
-### [Sizing Analyst](https://www.linkedin.com/jobs/view/4479588057/) — Dwight Capital
+### [Non-Agency RMBS & CLO Research Analyst/Associate](https://www.linkedin.com/jobs/view/4479705887/) — Bank of America
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $85,000.00/yr - $100,000.00/yr
+- 💰 **Salary:** $110,000.00/yr - $175,000.00/yr
 - 🕒 **Posted:** 2026-10-14
 
-### [Analyst, Business Intelligence](https://www.linkedin.com/jobs/view/4459268184/) — Horizon Next
+### [Client Finance Senior Analyst](https://www.linkedin.com/jobs/view/4478801830/) — NEON
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $55,000 - $70,000
+- 🕒 **Posted:** 2026-10-14
+
+### [Equity Research – Analyst/Associate, Airlines & Freight Transportation (New York)](https://www.linkedin.com/jobs/view/4478816357/) — Morgan Stanley
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-14
+
+### [Quantitative Finance Analyst](https://www.linkedin.com/jobs/view/4479712499/) — Bank of America
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $89,800.00/yr - $155,000.00/yr
+- 🕒 **Posted:** 2026-10-14
+
+### [State EMS SIGNAL Systems Unit Coordinator (Business Systems Analyst 1 Health) (NY HELPS) - 52411](https://www.linkedin.com/jobs/view/4479712603/) — New York State Department of Health
+- 📍 **Location:** Queens County, NY
+- 💰 **Salary:** $69,964.00/yr - $88,970.00/yr
+- 🕒 **Posted:** 2026-10-14
+
+### [Lead Technology Risk Analyst (IT Audit) - remote](https://www.linkedin.com/jobs/view/4473704511/) — Stryker
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $77,700 - $129,500 USD
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, Business Analytics](https://www.linkedin.com/jobs/view/4478816375/) — Hearts & Science
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $90,000 - $215,000
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Director, Business Analytics](https://www.linkedin.com/jobs/view/4478823035/) — PHD
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $120,000 - $230,000
+- 🕒 **Posted:** 2026-10-14
+
+### [Summer Analyst](https://www.linkedin.com/jobs/view/4477025125/) — East West Bank
+- 📍 **Location:** New York County, NY
+- 🕒 **Posted:** 2026-10-14
+
+### [Tax Reporting Test Analyst (CONTRACT) REMOTE](https://www.linkedin.com/jobs/view/4479728134/) — Broadridge
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-10-14
+
+### [Executive Director, Business Analytics](https://www.linkedin.com/jobs/view/4478815344/) — OMD
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000 - $250,000
+- 🕒 **Posted:** 2026-10-14
+
+### [Director of Revenue Cycle & Analytics (Hybrid)](https://www.linkedin.com/jobs/view/4479725236/) — The Manhattan Behavioral Center
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-10-14
+
+### [Telecom Expense Management / Financial Analyst](https://www.linkedin.com/jobs/view/4475222839/) — Lumen Solutions Group Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-14
+
+### [Vice President, Business Systems Analyst Specialist](https://www.linkedin.com/jobs/view/4479722006/) — TD
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000.00 - $225,000.00 USD
+- 🕒 **Posted:** 2026-10-14
+
+### [Stability Governance Lead Analyst  - Vice President](https://www.linkedin.com/jobs/view/4478811317/) — Citi
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $142,320.00 - $213,480.00
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Consumer Insights Researcher — Packaging &amp; Design Testing [AQ-22261]](https://www.linkedin.com/jobs/view/4477015552/) — Aquent
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $75.00/hr - $85.00/hr
+- 🕒 **Posted:** 2026-10-14
+
+### [Media Sr Analyst](https://www.linkedin.com/jobs/view/4478815189/) — Citi
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $98,960.00 - $148,440.00
+- 🕒 **Posted:** 2026-10-14
+
+### [Banking - Investment Banking, LATAM Full-Time Analyst - NEW YORK, US 2027](https://www.linkedin.com/jobs/view/4478800697/) — Citi
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $80,000.00 - $115,000.00
+- 🕒 **Posted:** 2026-10-14
+
+### [Early Careers: Junior Cyber Risk Analyst](https://www.linkedin.com/jobs/view/4479731243/) — Aon
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $82,000 to $89,500 annually
+- 🕒 **Posted:** 2026-10-14
+
+### [Analyst, BI, Product Management](https://www.linkedin.com/jobs/view/4477011868/) — Horizon Next
 - 📍 **Location:** New York City Metropolitan Area
 - 💰 **Salary:** $70,000.00 - $85,000.00
 - 🕒 **Posted:** 2026-10-14
 
-### [Senior Finance & Reporting Analyst](https://www.linkedin.com/jobs/view/4479573947/) — WhiteCap Search
+### [Systems Data Analyst – Workday HCM](https://www.linkedin.com/jobs/view/4479720656/) — Addison Group
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $115,000.00/yr - $150,000.00/yr
+- 💰 **Salary:** $140,000–$145,000
 - 🕒 **Posted:** 2026-10-14
 
-### [Workday Configuration Analyst](https://www.linkedin.com/jobs/view/4470477714/) — Snap Inc.
+### [Associate Analytics Product Specialist](https://www.linkedin.com/jobs/view/4477023302/) — FactSet
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $98,000-$146,000 annually
+- 💰 **Salary:** $67,00-$76,000
 - 🕒 **Posted:** 2026-10-14
 
-### [Experienced Analyst - Real Estate Strategic Advisory (RESA) – New York](https://www.linkedin.com/jobs/view/4476691685/) — Evercore
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Analyst - Corporate Risk Solutions](https://www.linkedin.com/jobs/view/4479576688/) — MUFG
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $110K - $115K
-- 🕒 **Posted:** 2026-10-14
-
-### [Research Analyst](https://www.linkedin.com/jobs/view/4479598017/) — G-20 Group
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-14
-
-### [Production Support Analyst](https://www.linkedin.com/jobs/view/4476688884/) — mthree
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $85,000- $119,000 USD
-- 🕒 **Posted:** 2026-10-14
-
-### [L/S Equity Research Analyst - Financials](https://www.linkedin.com/jobs/view/4479585361/) — Selby Jennings
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $600,000.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Associate Director, Analytics Media](https://www.linkedin.com/jobs/view/4456292389/) — Spark Foundry
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** USD $112,290.00 - USD $179,712.00/Annually
-- 🕒 **Posted:** 2026-10-14
-
-### [Workday System Analyst](https://www.linkedin.com/jobs/view/4479574762/) — 24 Seven Talent
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-14
-
-### [VP, Analytics (Contract)](https://www.linkedin.com/jobs/view/4479575866/) — Havas Media Network
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-14
-
-### [Specialist, CRM Strategic Initiatives](https://www.linkedin.com/jobs/view/4471811913/) — Macy's
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $81,120.00/yr - $135,120.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Business Intelligence Manager](https://www.linkedin.com/jobs/view/4476025769/) — Madison-Davis, LLC
-- 📍 **Location:** Iselin, NJ
-- 🕒 **Posted:** 2026-10-14
-
-### [Experienced Associate/Vice President – Equities Technology, Data & Analytics](https://www.linkedin.com/jobs/view/4477010078/) — Evercore
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $165,000 - $200,000
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4479077726/) — alphastream.ai
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Analyst, Analytics](https://www.linkedin.com/jobs/view/4469049796/) — Zenith
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** USD $73,150.00 - USD $112,554.00/Annually
-- 🕒 **Posted:** 2026-10-14
-
-### [Regional Marketing Intermediate Analyst](https://www.linkedin.com/jobs/view/4460952841/) — Citi
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $78,320.00 - $109,280.00
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Product Manager, AI Enablement - Analytics: Capital One Shopping (Remote-Eligible)](https://www.linkedin.com/jobs/view/4479583753/) — Capital One
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,700 - $229,100
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Order Management Analyst](https://www.linkedin.com/jobs/view/4478498337/) — Figma
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.50—$73.60 USD
-- 🕒 **Posted:** 2026-10-14
-
-### [Financial Analyst](https://www.linkedin.com/jobs/view/4479582726/) — Expo Experts
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $125,00-$140,000 Per Year
-- 🕒 **Posted:** 2026-10-14
-
-### [Actuarial Analyst II](https://www.linkedin.com/jobs/view/4477009135/) — Horizon Blue Cross Blue Shield of New Jersey
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $79,100 - $105,945
-- 🕒 **Posted:** 2026-10-14
-
-### [Enterprise Applications & Master Data Management Analyst](https://www.linkedin.com/jobs/view/4476697538/) — New Fortress Energy
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Data & Analytics Engineering Manager](https://www.linkedin.com/jobs/view/4454141615/) — Understood.org
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $185,000 –$200,000
-- 🕒 **Posted:** 2026-10-14
-
-### [Portfolio Analyst](https://www.linkedin.com/jobs/view/4478801025/) — NO Comp
-- 📍 **Location:** New Jersey, United States
-- 🕒 **Posted:** 2026-10-14
-
-### [Intern, Analytics Modelling ~ Brookfield Wealth Solutions](https://www.linkedin.com/jobs/view/4479586836/) — Brookfield
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-14
-
-### [Financial Data Analyst](https://www.linkedin.com/jobs/view/4477006295/) — Green Key Resources
+### [Board Certified Behavior Analyst (Remote option)](https://www.linkedin.com/jobs/view/4478806721/) — Imagination ABA Therapy
 - 📍 **Location:** Woodbridge, NJ
-- 💰 **Salary:** $25.00/hr - $33.00/hr
+- 💰 **Salary:** $75.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-10-14
 
-### [Business Analyst](https://www.linkedin.com/jobs/view/4479704215/) — Amtex Systems Inc
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-10-14
-
-### [Veeva QMS Business Analyst](https://www.linkedin.com/jobs/view/4479708005/) — Amtex Systems Inc
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-10-14
-
-### [Investment Banking Analyst #1013775](https://www.linkedin.com/jobs/view/4478801311/) — Dexian
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $35.00/hr - $38.00/hr
-- 🕒 **Posted:** 2026-10-14
-
-### [RE Analyst, Portfolio Management](https://www.linkedin.com/jobs/view/4478487990/) — Nuveen, a TIAA company
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-14
-
-### [Technical Business Analyst](https://www.linkedin.com/jobs/view/4478806176/) — Smart IT Frame LLC
-- 📍 **Location:** New Jersey, United States
-- 🕒 **Posted:** 2026-10-14
-
-### [Conflicts Analyst](https://www.linkedin.com/jobs/view/4478806172/) — Herbert Smith Freehills Kramer
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $70,000-$85,000
-- 🕒 **Posted:** 2026-10-14
-
-### [Conflicts Analyst (Lateral Recruitment Focus)](https://www.linkedin.com/jobs/view/4478809026/) — Herbert Smith Freehills Kramer
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Analytics Engineer](https://www.linkedin.com/jobs/view/4479705385/) — DDN
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150K - $185K
-- 🕒 **Posted:** 2026-10-14
-
-### [Business Analyst](https://www.linkedin.com/jobs/view/2626358604/) — EJR Search Partners
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-14
-
-### [Healthcare Analyst](https://www.linkedin.com/jobs/view/4478815002/) — Healthfirst
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $68,900 - $99,620
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Credit Analyst](https://www.linkedin.com/jobs/view/4446789281/) — Bounce
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100k-$120k
+### [Penetration Testing Analyst, Vice President](https://www.linkedin.com/jobs/view/4479715734/) — State Street
+- 📍 **Location:** Princeton, NJ
+- 💰 **Salary:** $120,000 - $202,500
 - 🕒 **Posted:** 2026-10-14
