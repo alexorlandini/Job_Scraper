@@ -1,5 +1,5 @@
 # ☕ HiringCafe — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-16 08:44 UTC*
+*Last updated: 2026-10-16 22:30 UTC*
 
 **0 new role(s)** since last run · 18 total in last 30d
 
