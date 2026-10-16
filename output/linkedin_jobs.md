@@ -1,126 +1,94 @@
 # 🔥 LinkedIn — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-16 00:28 UTC*
+*Last updated: 2026-10-16 03:03 UTC*
 
-**26 new role(s)** since last run · 27 total in last 1h
+**19 new role(s)** since last run · 20 total in last 1h
 
-### [Senior Financial Analyst, NACF](https://www.linkedin.com/jobs/view/4480190306/) — Amazon
+### [Data Analyst I-Geriatric and Palliative Care](https://www.linkedin.com/jobs/view/4480188855/) — Mount Sinai Morningside
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66482.07 - $74250 Annually
+- 🕒 **Posted:** 2026-10-16
+
+### [Senior Data Analyst, Lives Covered](https://www.linkedin.com/jobs/view/4477339522/) — Grow Therapy
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $152,000.00/yr - $177,000.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Analyst I-Geriatric and Palliative Care](https://www.linkedin.com/jobs/view/4479313063/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66482.07 - $74250 Annually
+- 🕒 **Posted:** 2026-10-16
+
+### [P&C Actuary Analyst](https://www.linkedin.com/jobs/view/4480187553/) — Deloitte
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $74,900 to $147,600
+- 🕒 **Posted:** 2026-10-16
+
+### [Senior Revenue Analyst - Global Law Firm](https://www.linkedin.com/jobs/view/4480300158/) — Coda Search│Staffing
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $125,000.00/yr - $135,000.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Senior Technology Risk Analyst (IT Audit) - remote](https://www.linkedin.com/jobs/view/4473598578/) — Stryker
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $69,500 - $110,900 USD
+- 🕒 **Posted:** 2026-10-16
+
+### [Senior Analyst, Tag Management & Tracking](https://www.linkedin.com/jobs/view/4479197688/) — McAfee
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-16
 
-### [Finance Analyst, Real Estate](https://www.linkedin.com/jobs/view/4480187462/) — Barnes & Noble, Inc.
+### [EV Program Strategy & Performance Analytics Senior Specialist](https://www.linkedin.com/jobs/view/4480305007/) — Con Edison
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $80,000 - $90,000
+- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Market Research Analyst - For Future Consideration](https://www.linkedin.com/jobs/view/4480160818/) — National Research Group
+### [Lead Technology Risk Analyst (IT Audit) - remote](https://www.linkedin.com/jobs/view/4473704511/) — Stryker
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $62,000 -$70,500
-- 🕒 **Posted:** 2026-10-15
+- 💰 **Salary:** $77,700 - $129,500 USD
+- 🕒 **Posted:** 2026-10-16
 
-### [Senior Finance Business Analyst](https://www.linkedin.com/jobs/view/4479186000/) — Sompo
-- 📍 **Location:** Morristown, NJ
-- 💰 **Salary:** $120,000 – $140,000
-- 🕒 **Posted:** 2026-10-15
+### [Senior, Product Analytics](https://www.linkedin.com/jobs/view/4480181895/) — Macy's
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $108,120.00/yr - $180,360.00/yr
+- 🕒 **Posted:** 2026-10-16
 
-### [FCC Analyst](https://www.linkedin.com/jobs/view/4474273863/) — Capgemini
+### [Quantitative Analyst](https://www.linkedin.com/jobs/view/4479188828/) — PortfolioFuture
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-16
+
+### [Functional Business Analyst/BA](https://www.linkedin.com/jobs/view/4479193844/) — Programmers.io
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $50,000.00/yr - $65,000.00/yr
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-16
 
-### [Senior Finance Business Analyst](https://www.linkedin.com/jobs/view/4479179227/) — Sompo
+### [Manager, Customer Relationship Management Analytics](https://www.linkedin.com/jobs/view/4480187508/) — HSBC
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $120,000 – $140,000
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-16
 
-### [Senior Analyst, Paid Search](https://www.linkedin.com/jobs/view/4479162808/) — Publicis Collective
+### [Security Operations Analyst](https://www.linkedin.com/jobs/view/4480190810/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** USD $60,800.00 - USD $93,600.00/Annually
-- 🕒 **Posted:** 2026-10-15
+- 💰 **Salary:** $30.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-10-16
 
-### [Senior Payroll Analyst](https://www.linkedin.com/jobs/view/4480157430/) — Success Academy Charter Schools
+### [Network & Infrastructure Security Analyst](https://www.linkedin.com/jobs/view/4480185950/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000 - $125,000 USD
-- 🕒 **Posted:** 2026-10-15
+- 💰 **Salary:** $35.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-10-16
 
-### [Equities Electronic Application Support Lead Analyst, Vice President](https://www.linkedin.com/jobs/view/4479168835/) — Citi
+### [Incident Response Analyst](https://www.linkedin.com/jobs/view/4480194659/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $142,320.00 - $213,480.00
-- 🕒 **Posted:** 2026-10-15
+- 💰 **Salary:** $30.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-10-16
 
-### [RPA UiPath Analyst](https://www.linkedin.com/jobs/view/4479180311/) — AppLab Systems, Inc
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4479175355/) — Pyramid Technology Solutions
-- 📍 **Location:** Manhattan, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Business Manager & Marketing Operations Lead](https://www.linkedin.com/jobs/view/4479180251/) — Citi
+### [Financial Analyst](https://www.linkedin.com/jobs/view/4480186919/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $163,600.00 - $245,400.00
-- 🕒 **Posted:** 2026-10-15
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-10-16
 
-### [Functional Business Analyst](https://www.linkedin.com/jobs/view/4479189033/) — Programmers.io
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Capital & Data Risk / IM Risk (Risk Management) : Job Level - Analyst](https://www.linkedin.com/jobs/view/4479171860/) — Morgan Stanley
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Analyst, Business Development](https://www.linkedin.com/jobs/view/4477329784/) — Mastercard
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $114,000 - $182,000 USD
-- 🕒 **Posted:** 2026-10-15
-
-### [Insights Lead, Brand & Consumer Analytics](https://www.linkedin.com/jobs/view/4479189088/) — Accenture
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $132,500 to $338,300
-- 🕒 **Posted:** 2026-10-15
-
-### [Transit Management Analyst Series](https://www.linkedin.com/jobs/view/4479170949/) — Metropolitan Transportation Authority
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-15
-
-### [Transit Management Analyst Series](https://www.linkedin.com/jobs/view/4479182233/) — Metropolitan Transportation Authority
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $67,933- $80,421
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Analyst, Portfolio Manager - Real Estate Specialty Finance](https://www.linkedin.com/jobs/view/4479172845/) — Customers Bank
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $115,000 - $130,000,
-- 🕒 **Posted:** 2026-10-15
-
-### [Portfolio Design, Analytics, & Risk Principal](https://www.linkedin.com/jobs/view/4480169701/) — Marsh
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $126,000 to $252,000
-- 🕒 **Posted:** 2026-10-15
-
-### [Project Finance Analyst](https://www.linkedin.com/jobs/view/4480182209/) — talisman
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Analyst, Capital Formation & Portfolio Management](https://www.linkedin.com/jobs/view/4479184787/) — Stockdale Capital Partners
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Audience Strategy Analyst](https://www.linkedin.com/jobs/view/4480188182/) — WNS
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100K - $125K annually
-- 🕒 **Posted:** 2026-10-15
-
-### [Technical Business Analyst and Project Coordinator - Officer](https://www.linkedin.com/jobs/view/4476794187/) — State Street
+### [Senior Analyst, Trial Analytics, Insights & Planning (TAIP)](https://www.linkedin.com/jobs/view/4480195804/) — Bristol Myers Squibb
 - 📍 **Location:** Princeton, NJ
-- 💰 **Salary:** $65,000 - $113,750
-- 🕒 **Posted:** 2026-10-15
+- 💰 **Salary:** $135,470 - $164,161
+- 🕒 **Posted:** 2026-10-16
 
-### [CRM Lifecycle Manager](https://www.linkedin.com/jobs/view/4477328852/) — Brigit
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
-- 🕒 **Posted:** 2026-10-15
-
-### [Managed Services - Data, Analytics & AI - Director](https://www.linkedin.com/jobs/view/4480186346/) — PwC
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $155,000 - $410,000
-- 🕒 **Posted:** 2026-10-15
+### [Realty Business Analyst](https://www.linkedin.com/jobs/view/4479308572/) — Hackensack Meridian Health
+- 📍 **Location:** Iselin, NJ
+- 🕒 **Posted:** 2026-10-16
