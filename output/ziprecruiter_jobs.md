@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-16 22:56 UTC*
+*Last updated: 2026-10-17 21:35 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
