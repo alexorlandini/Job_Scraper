@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-18 21:02 UTC*
+*Last updated: 2026-10-18 23:52 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Accounting Manager (AI, Data Analytics)](https://www.linkedin.com/jobs/view/4428894222/) — Vaco by Highspring
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-10-18
