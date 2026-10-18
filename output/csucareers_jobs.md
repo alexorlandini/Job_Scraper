@@ -1,5 +1,5 @@
-# 🎓 CSU Careers — California State University Environmental / Toxicology Roles
-*Last updated: 2026-10-11 20:30 UTC*
+# 🎓 CSU Careers — California State University NYC & New Jersey Analyst Roles
+*Last updated: 2026-10-18 18:53 UTC*
 
 **0 new role(s)** since last run · 0 total in current CSU Careers postings
 
