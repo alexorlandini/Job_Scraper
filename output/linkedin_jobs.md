@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-19 01:48 UTC*
+*Last updated: 2026-10-19 07:16 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Analyst - Risk and Controls - Global Corporate & Investment Banking](https://www.linkedin.com/jobs/view/4480933117/) — MUFG
+### [Entry-Level Data Analyst](https://www.linkedin.com/jobs/view/4479961637/) — Emonics LLC
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-10-19
+
+### [Advisor Solution Analyst](https://www.linkedin.com/jobs/view/4480938412/) — PortfolioFuture
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $80K to $100K
 - 🕒 **Posted:** 2026-10-19
