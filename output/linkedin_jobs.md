@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-18 23:52 UTC*
+*Last updated: 2026-10-19 01:48 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Accounting Manager (AI, Data Analytics)](https://www.linkedin.com/jobs/view/4428894222/) — Vaco by Highspring
+### [Analyst - Risk and Controls - Global Corporate & Investment Banking](https://www.linkedin.com/jobs/view/4480933117/) — MUFG
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-18
+- 💰 **Salary:** $80K to $100K
+- 🕒 **Posted:** 2026-10-19
