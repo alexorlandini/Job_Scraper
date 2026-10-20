@@ -1,108 +1,81 @@
 # 🔥 LinkedIn — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-20 02:06 UTC*
+*Last updated: 2026-10-20 07:19 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Analyst, Data Science - Burson](https://www.linkedin.com/jobs/view/4478633459/) — Burson
+### [Analyst, State Dispute Operations](https://www.linkedin.com/jobs/view/4478638971/) — Pivotal Health
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $35,000—$75,000 USD
+- 💰 **Salary:** $26.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-10-20
 
-### [Senior Investment Compliance Analyst (HYBRID)](https://www.linkedin.com/jobs/view/4478640194/) — Equitable
+### [Document Management Analyst](https://www.linkedin.com/jobs/view/4480427366/) — Metropolitan Transportation Authority
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000 - $160,000
+- 💰 **Salary:** $ 39,717 - $ 66,195
 - 🕒 **Posted:** 2026-10-20
 
-### [Senior Compliance Analyst (MS), Anti-Money Laundering)](https://www.linkedin.com/jobs/view/4478639255/) — ACA Group
+### [Senior Manager-Data Analytics](https://www.linkedin.com/jobs/view/4480293505/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $60,000.00 - $75,000.00
+- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [Analyst, US Client Services](https://www.linkedin.com/jobs/view/4478628685/) — Ares Management
+### [Senior Analyst - Customer Growth Dialogic Marketing](https://www.linkedin.com/jobs/view/4479152063/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $65,000 - $80,000
+- 💰 **Salary:** $78,000.00/yr - $124,750.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [2027 Summer Analyst, RCMC Asset Management](https://www.linkedin.com/jobs/view/4481287873/) — Related Management Company
+### [Director - Amex Offers Digital Media Data Analytics](https://www.linkedin.com/jobs/view/4475142072/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $25-$30 per hour
+- 💰 **Salary:** $144,250.00/yr - $256,250.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [2027 Summer Analyst, Commercial Management Operations](https://www.linkedin.com/jobs/view/4481294747/) — Related Management Company
+### [Senior Analyst, Marketing - Resy](https://www.linkedin.com/jobs/view/4476871209/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $25-$30 per hour
+- 💰 **Salary:** $78,000.00/yr - $124,750.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [2027 Summer Analyst, RMC Property Operations](https://www.linkedin.com/jobs/view/4481292850/) — Related Management Company
+### [Analyst- Social Execution & Channel Management Marketing](https://www.linkedin.com/jobs/view/4475982521/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $25-$30 per hour
+- 💰 **Salary:** $65,500.00/yr - $102,500.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [Senior Financial Planning Analyst - Retail](https://www.linkedin.com/jobs/view/4480408166/) — Adecco
+### [Senior Analyst, Marketing Investment & Budget Management](https://www.linkedin.com/jobs/view/4480251553/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $55.00/hr
+- 💰 **Salary:** $78,000.00/yr - $124,750.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [Manager, Ad Sales Strategy & Analytics](https://www.linkedin.com/jobs/view/4481505825/) — TelevisaUnivision
+### [Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics, Enterprise Technology Services- New York, NY](https://www.linkedin.com/jobs/view/4461360190/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000- $115,000
+- 💰 **Salary:** $89,250.00/yr - $150,250.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [Senior Contracting Analyst](https://www.linkedin.com/jobs/view/4481512387/) — Mount Sinai Morningside
+### [Project Analyst I](https://www.linkedin.com/jobs/view/4479630934/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $96461 - $144692 Annually
+- 💰 **Salary:** $65,500.00/yr - $102,500.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [Senior Contracting Analyst](https://www.linkedin.com/jobs/view/4480294872/) — Mount Sinai Health System
+### [Sr Financial Analyst](https://www.linkedin.com/jobs/view/4477596792/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $96461 - $144692 Annually
+- 💰 **Salary:** $78,000.00/yr - $124,750.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [Data Analytics Manager - Credit Card Analytics](https://www.linkedin.com/jobs/view/4481522200/) — U.S. Bank
+### [Campus Graduate Masters Full-Time Senior Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY](https://www.linkedin.com/jobs/view/4461347368/) — American Express
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $105,400.00 - $124,000.00
+- 💰 **Salary:** $89,250.00/yr - $150,250.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [Director, Hospital Revenue Reporting, Recognition, Reimbursement & Analytics-Corporate 42nd Street-Full-Time-Days-Hybrid](https://www.linkedin.com/jobs/view/4476271270/) — Mount Sinai Health System
+### [Quant Analytics Senior Associate - Business Intelligence](https://www.linkedin.com/jobs/view/4478644387/) — JPMorganChase
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $169095 - $253643 Annually
+- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-10-20
 
-### [Systems Manager - GCP Data Engineering, Enterprise Data & Analytics](https://www.linkedin.com/jobs/view/4481519308/) — Con Edison
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $145,000.00/yr - $195,000.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Business Analyst, LINK, Assistant Vice President, Hybrid](https://www.linkedin.com/jobs/view/4481294550/) — State Street
-- 📍 **Location:** Princeton, NJ
-- 💰 **Salary:** $80,000 - $140,000
-- 🕒 **Posted:** 2026-10-19
-
-### [Fraud Analyst](https://www.linkedin.com/jobs/view/4480408011/) — Employvision Inc.
+### [Epic Application Analyst - Interconnect-Senior Consultant](https://www.linkedin.com/jobs/view/4481539324/) — Deloitte
 - 📍 **Location:** Morristown, NJ
-- 💰 **Salary:** $30.00/hr - $35.00/hr
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-20
 
-### [eCom Assoc Analyst](https://www.linkedin.com/jobs/view/4478619969/) — PepsiCo
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $ 64,600 - $87,000
-- 🕒 **Posted:** 2026-10-19
+### [Epic Application Analyst - Interconnect-Senior Consultant](https://www.linkedin.com/jobs/view/4481524993/) — Deloitte
+- 📍 **Location:** Princeton, NJ
+- 🕒 **Posted:** 2026-10-20
 
-### [Lead Technical Business Analyst – Finance Data & Snowflake Modernization](https://www.linkedin.com/jobs/view/4481505203/) — Natsoft
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-19
-
-### [Board Certified Behavioral Analyst (BCBA) Jersey City](https://www.linkedin.com/jobs/view/4480291613/) — Hidden Stars ABA
+### [Epic Application Analyst - Interconnect-Senior Consultant](https://www.linkedin.com/jobs/view/4481528936/) — Deloitte
 - 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $80.00/hr - $110.00/hr
-- 🕒 **Posted:** 2026-10-19
-
-### [Cable Infrastructure MAC Coordinator and Project Manager - Telecommunications Network Analyst II - Digital and Technology Partners - Onsite](https://www.linkedin.com/jobs/view/4476241469/) — Mount Sinai Health System
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $82000 - $123000 Annually
-- 🕒 **Posted:** 2026-10-19
-
-### [BCBA (Board Certified Behavior Analyst)](https://www.linkedin.com/jobs/view/4481501392/) — Circle Care Services
-- 📍 **Location:** Edison, NJ
-- 💰 **Salary:** $85,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-20
