@@ -1,81 +1,126 @@
 # 🔥 LinkedIn — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-20 07:19 UTC*
+*Last updated: 2026-10-20 19:58 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**26 new role(s)** since last run · 26 total in last 1h
 
-### [Analyst, State Dispute Operations](https://www.linkedin.com/jobs/view/4478638971/) — Pivotal Health
+### [Revenue Operations Analyst](https://www.linkedin.com/jobs/view/4481767192/) — Botrista, Inc.
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $26.00/hr - $30.00/hr
+- 💰 **Salary:** $80,000 - $100,000
 - 🕒 **Posted:** 2026-10-20
 
-### [Document Management Analyst](https://www.linkedin.com/jobs/view/4480427366/) — Metropolitan Transportation Authority
+### [Senior Financial Analyst - NJ](https://www.linkedin.com/jobs/view/4481747831/) — Nesco Resource
+- 📍 **Location:** Secaucus, NJ
+- 💰 **Salary:** $115,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Campus Recruiting - 2027 Investment Banking Analyst - Restructuring](https://www.linkedin.com/jobs/view/4471246436/) — Piper Sandler
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $ 39,717 - $ 66,195
 - 🕒 **Posted:** 2026-10-20
 
-### [Senior Manager-Data Analytics](https://www.linkedin.com/jobs/view/4480293505/) — American Express
+### [Senior Regulatory and Operational Reporting Analyst](https://www.linkedin.com/jobs/view/4478922309/) — VNS Health
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
+- 💰 **Salary:** USD $85,000.00 - USD $106,300.00 /Yr
 - 🕒 **Posted:** 2026-10-20
 
-### [Senior Analyst - Customer Growth Dialogic Marketing](https://www.linkedin.com/jobs/view/4479152063/) — American Express
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $78,000.00/yr - $124,750.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Director - Amex Offers Digital Media Data Analytics](https://www.linkedin.com/jobs/view/4475142072/) — American Express
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $144,250.00/yr - $256,250.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Analyst, Marketing - Resy](https://www.linkedin.com/jobs/view/4476871209/) — American Express
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $78,000.00/yr - $124,750.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Analyst- Social Execution & Channel Management Marketing](https://www.linkedin.com/jobs/view/4475982521/) — American Express
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $65,500.00/yr - $102,500.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Analyst, Marketing Investment & Budget Management](https://www.linkedin.com/jobs/view/4480251553/) — American Express
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $78,000.00/yr - $124,750.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics, Enterprise Technology Services- New York, NY](https://www.linkedin.com/jobs/view/4461360190/) — American Express
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $89,250.00/yr - $150,250.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Project Analyst I](https://www.linkedin.com/jobs/view/4479630934/) — American Express
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $65,500.00/yr - $102,500.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Sr Financial Analyst](https://www.linkedin.com/jobs/view/4477596792/) — American Express
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $78,000.00/yr - $124,750.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Campus Graduate Masters Full-Time Senior Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY](https://www.linkedin.com/jobs/view/4461347368/) — American Express
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $89,250.00/yr - $150,250.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Quant Analytics Senior Associate - Business Intelligence](https://www.linkedin.com/jobs/view/4478644387/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Epic Application Analyst - Interconnect-Senior Consultant](https://www.linkedin.com/jobs/view/4481539324/) — Deloitte
-- 📍 **Location:** Morristown, NJ
-- 🕒 **Posted:** 2026-10-20
-
-### [Epic Application Analyst - Interconnect-Senior Consultant](https://www.linkedin.com/jobs/view/4481524993/) — Deloitte
+### [Senior Pricing and Contract Analyst - 409031](https://www.linkedin.com/jobs/view/4473503321/) — Atrium
 - 📍 **Location:** Princeton, NJ
+- 💰 **Salary:** $80k - $90k
 - 🕒 **Posted:** 2026-10-20
 
-### [Epic Application Analyst - Interconnect-Senior Consultant](https://www.linkedin.com/jobs/view/4481528936/) — Deloitte
+### [Forensic and Integrity Services-Managed Services-Experienced Analyst](https://www.linkedin.com/jobs/view/4480716160/) — EY
+- 📍 **Location:** Hoboken, NJ
+- 💰 **Salary:** $66,200 to $99,700
+- 🕒 **Posted:** 2026-10-20
+
+### [Financial Analyst – FLDP](https://www.linkedin.com/jobs/view/4478908888/) — Quest Diagnostics
+- 📍 **Location:** Secaucus, NJ
+- 🕒 **Posted:** 2026-10-20
+
+### [Global Banking & Markets - IB Capital Solutions Group - Corporate Derivatives Analyst - New York](https://www.linkedin.com/jobs/view/4471548943/) — Goldman Sachs
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $110000-$125000
+- 🕒 **Posted:** 2026-10-20
+
+### [Forensic and Integrity Services-Managed Services-Experienced Analyst](https://www.linkedin.com/jobs/view/4480719029/) — EY
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66,200 to $99,700
+- 🕒 **Posted:** 2026-10-20
+
+### [Corporate Development Analyst](https://www.linkedin.com/jobs/view/4478290759/) — Atlas Search
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $120,000.00/yr - $175,000.00/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Global Trade Business Execution Senior Analyst](https://www.linkedin.com/jobs/view/4470039534/) — BBVA
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $105,000 to $117,000
+- 🕒 **Posted:** 2026-10-20
+
+### [Jr. Client Onboarding Analyst](https://www.linkedin.com/jobs/view/4480714273/) — Phyton Talent Advisors
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [Solutions Analyst II](https://www.linkedin.com/jobs/view/4480710615/) — TekWissen ®
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70.35/hr - $75.35/hr
+- 🕒 **Posted:** 2026-10-20
+
+### [Investor Services Analyst](https://www.linkedin.com/jobs/view/4478902900/) — Atlas Search
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $90,000.00/yr - $125,000.00/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Sr. Financial Analyst](https://www.linkedin.com/jobs/view/4405229618/) — Robert Half
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $42.75/hr - $49.50/hr
+- 🕒 **Posted:** 2026-10-20
+
+### [Sr. IAM Analyst (Only w2)](https://www.linkedin.com/jobs/view/4478910777/) — Reqroute, Inc
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [Social Media and Analytics Specialist](https://www.linkedin.com/jobs/view/4481748878/) — Mindlance
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $22.00/hr - $26.00/hr
+- 🕒 **Posted:** 2026-10-20
+
+### [Financial Analyst – FLDP](https://www.linkedin.com/jobs/view/4478924144/) — Quest Diagnostics
+- 📍 **Location:** Secaucus, NJ
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Analyst II - Maternal Health Policy and Equity](https://www.linkedin.com/jobs/view/4480701935/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $69999.88 - $105124.12 Annually
+- 🕒 **Posted:** 2026-10-20
+
+### [Analyst, GTM & Product Operations - Calvin Klein](https://www.linkedin.com/jobs/view/4478146869/) — Calvin Klein
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [Director, Global Marketing Operations, Campaign & Licensing](https://www.linkedin.com/jobs/view/4469496760/) — Calvin Klein
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [CRE Sr. Credit Analyst](https://www.linkedin.com/jobs/view/4481775042/) — U.S. Bank
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $104,550.00 - $123,000.00
+- 🕒 **Posted:** 2026-10-20
+
+### [Reporting & Analytics Analyst](https://www.linkedin.com/jobs/view/4481759729/) — U.S. Bank
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $119,765.00 - $140,900.00
+- 🕒 **Posted:** 2026-10-20
+
+### [Reporting Analyst III](https://www.linkedin.com/jobs/view/4478918578/) — Horizon Blue Cross Blue Shield of New Jersey
+- 📍 **Location:** Newark, NJ
+- 💰 **Salary:** $87,300 - $119,070
+- 🕒 **Posted:** 2026-10-20
+
+### [Technical Financial Analyst](https://www.linkedin.com/jobs/view/4478920544/) — ViewTrade
 - 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-20
+
+### [Director, Analytics Engineering](https://www.linkedin.com/jobs/view/4478929134/) — Oscar Health
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $198,720 - $260,820 per year
 - 🕒 **Posted:** 2026-10-20
