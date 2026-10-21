@@ -1,84 +1,67 @@
 # 🔥 LinkedIn — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-20 23:15 UTC*
+*Last updated: 2026-10-21 01:04 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4481789420/) — WSP in the U.S.
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $72,700-76,960/year
-- 🕒 **Posted:** 2026-10-20
-
-### [Cyber Security Analyst II](https://www.linkedin.com/jobs/view/4478940683/) — Soho Square Solutions
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-20
-
-### [Assistant Vice President; Quantitative Finance Analyst](https://www.linkedin.com/jobs/view/4481790641/) — Bank of America
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $301,000.00/yr - $323,700.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Corporate Banking Analyst - Fund Finance](https://www.linkedin.com/jobs/view/4481774812/) — Wells Fargo
+### [Financial Analyst](https://www.linkedin.com/jobs/view/4476117071/) — Soni
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000 - $110,000
-- 🕒 **Posted:** 2026-10-20
+- 🕒 **Posted:** 2026-10-21
 
-### [Financial Analyst](https://www.linkedin.com/jobs/view/4481793627/) — Arkhya Tech Inc.
-- 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Benefits Analyst](https://www.linkedin.com/jobs/view/4480730202/) — Via
+### [Account Risk Management Analyst](https://www.linkedin.com/jobs/view/4481798616/) — Federal Reserve Bank of New York
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $80,000-$90,000 per year
-- 🕒 **Posted:** 2026-10-20
+- 💰 **Salary:** $90000 - $110000
+- 🕒 **Posted:** 2026-10-21
 
-### [Senior Marketing Operations Manager (Reporting and Analytics)](https://www.linkedin.com/jobs/view/4476491568/) — Vestwell
+### [Investment Banking and Capital Markets-Media and Telecom (M&T) Analyst](https://www.linkedin.com/jobs/view/4482001622/) — Deutsche Bank
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $105K - $140K
-- 🕒 **Posted:** 2026-10-20
+- 💰 **Salary:** $110,000-$125,000
+- 🕒 **Posted:** 2026-10-21
 
-### [Senior Manager, Commercial Analytics and Data Science](https://www.linkedin.com/jobs/view/4480727441/) — Avispa
+### [Forensic and Integrity Services- Managed Services - Digital Forensics - Experienced Analyst](https://www.linkedin.com/jobs/view/4480739457/) — EY
+- 📍 **Location:** Hoboken, NJ
+- 💰 **Salary:** $77,500 to $116,300
+- 🕒 **Posted:** 2026-10-21
+
+### [Grant & Budget Analyst (59029)](https://www.linkedin.com/jobs/view/4482015241/) — Phoenix House
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $65-$95/hr
-- 🕒 **Posted:** 2026-10-20
+- 🕒 **Posted:** 2026-10-21
 
-### [Senior FP&A Analyst - Commercial](https://www.linkedin.com/jobs/view/4457514831/) — Integra LifeSciences
-- 📍 **Location:** Princeton, NJ
-- 💰 **Salary:** $81,650.00 - $112,700.00 USD
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior, Product Analytics](https://www.linkedin.com/jobs/view/4482005048/) — Macy's
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $108,120 - $180,360 Annually
-- 🕒 **Posted:** 2026-10-20
-
-### [Senior Payroll and Accounts Payable Analyst](https://www.linkedin.com/jobs/view/4480727581/) — Fordham University
+### [Analyst, Investor Services](https://www.linkedin.com/jobs/view/4478952350/) — Ares Management
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-20
+- 💰 **Salary:** $85,000 - $95,000
+- 🕒 **Posted:** 2026-10-21
 
-### [Analyst, Analytics/Insights](https://www.linkedin.com/jobs/view/4480727605/) — Omnicom Media
+### [Sr Procurement Analyst (Infrastructure/Telecom) *HIRING ASAP*](https://www.linkedin.com/jobs/view/4482007347/) — TEKsystems
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $68,000 - $90,000
-- 🕒 **Posted:** 2026-10-20
+- 💰 **Salary:** $65.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-10-21
 
-### [Analyst, Analytics/Insights](https://www.linkedin.com/jobs/view/4480727604/) — Omnicom Media
+### [Managed Services - Data, Analytics & AI - Senior Associate](https://www.linkedin.com/jobs/view/4482009329/) — PwC
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $68,000 - $90,000
-- 🕒 **Posted:** 2026-10-20
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-10-21
 
-### [Analyst, Analytics/Insights](https://www.linkedin.com/jobs/view/4480731428/) — Omnicom Media
+### [Managed Services - Data, Analytics & AI - Manager](https://www.linkedin.com/jobs/view/4481796838/) — PwC
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $68,000 - $90,000
-- 🕒 **Posted:** 2026-10-20
+- 💰 **Salary:** $99,000 - $232,000
+- 🕒 **Posted:** 2026-10-21
 
-### [Analyst, Analytics/Insights](https://www.linkedin.com/jobs/view/4480732416/) — Omnicom Media
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-20
+### [Master Data Analyst](https://www.linkedin.com/jobs/view/4480730796/) — Haleon
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $108,530 - $149,229
+- 🕒 **Posted:** 2026-10-21
 
-### [Sr. IAM Analyst (Only w2)](https://www.linkedin.com/jobs/view/4478954075/) — Reqroute, Inc
+### [Analyst - Pricing Optimization](https://www.linkedin.com/jobs/view/4482007842/) — Gap Inc.
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-20
+- 💰 **Salary:** $76,400.00 - $95,500.00
+- 🕒 **Posted:** 2026-10-21
 
-### [Lead Business Analyst (Hybrid)](https://www.linkedin.com/jobs/view/4482000226/) — Broadridge
+### [Data Analyst II - Maternal Health Policy and Equity](https://www.linkedin.com/jobs/view/4482027001/) — Mount Sinai Morningside
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $110,000 to $120,000 USD
+- 💰 **Salary:** $69999.88 - $105124.12 Annually
+- 🕒 **Posted:** 2026-10-21
+
+### [IT Senior Systems Analyst](https://www.linkedin.com/jobs/view/4481796682/) — Addison Group
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $67-$76/hour
 - 🕒 **Posted:** 2026-10-20
