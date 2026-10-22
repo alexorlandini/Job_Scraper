@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-20 20:02 UTC",
-  "total": 13,
-  "new_count": 12,
+  "scraped_at": "2026-10-22 20:13 UTC",
+  "total": 12,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Mateo County",
@@ -46,15 +46,6 @@
       "url": "https://www.calopps.org/glenn/job-20784164",
       "date_posted": "",
       "salary": "$32.77-$43.99 Hourly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "Departmental Systems Analyst- PACS Administrator (Open & Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20783513",
-      "date_posted": "",
-      "salary": "$126,921.60-$158,662.40 Annually",
       "ats": "CalOpps"
     },
     {
@@ -121,114 +112,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Mateo County",
-      "title": "Intelligence Analyst- Unclassified (Open)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20786331",
-      "date_posted": "",
-      "salary": "$106,870.40-$133,577.60 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Lafayette",
-      "title": "Administrative Analyst- Public Works",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/lafayette/job-20786006",
-      "date_posted": "",
-      "salary": "$103,150.00-$144,205.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "Child Support Analyst I/II (Open and Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20785150",
-      "date_posted": "",
-      "salary": "$83,012.80-$109,283.20 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Redwood City",
-      "title": "Software Development and Application Support Analyst II",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/redwood-city/job-20784815",
-      "date_posted": "",
-      "salary": "$11,449.00-$13,740.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Glenn",
-      "title": "Financial Management Analyst I/II",
-      "location": "Northern California Inland",
-      "url": "https://www.calopps.org/glenn/job-20784164",
-      "date_posted": "",
-      "salary": "$32.77-$43.99 Hourly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "Departmental Systems Analyst- PACS Administrator (Open & Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20783513",
-      "date_posted": "",
-      "salary": "$126,921.60-$158,662.40 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "South San Francisco",
-      "title": "Financial Analyst I",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/south-san-francisco/job-20782692",
-      "date_posted": "",
-      "salary": "$109,033.00-$132,516.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Belmont",
-      "title": "Budget Analyst (Management Analyst I/II)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/belmont/job-20773376",
-      "date_posted": "",
-      "salary": "$103,123.00-$143,350.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Simi Valley",
-      "title": "Senior Management Analyst (City Manager's Office)",
-      "location": "Ventura County",
-      "url": "https://www.calopps.org/simi-valley/job-20768386",
-      "date_posted": "",
-      "salary": "$110,698.00-$135,385.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Alameda County Transportation Commission",
-      "title": "Associate Administrative Analyst (Assistant Clerk)",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/alameda-county-transportation-commission/job-20761548",
-      "date_posted": "",
-      "salary": "$106,206.00-$138,068.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Alameda County Transportation Commission",
-      "title": "Associate Administrative Analyst (Office Operations)",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/alameda-county-transportation-commission/job-20761546",
-      "date_posted": "",
-      "salary": "$106,206.00-$138,068.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Alameda County Transportation Commission",
-      "title": "Senior Program Analyst- Programming",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/alameda-county-transportation-commission/job-20758885",
-      "date_posted": "",
-      "salary": "$129,402.00-$168,224.00 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
