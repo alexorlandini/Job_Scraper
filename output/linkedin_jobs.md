@@ -1,84 +1,50 @@
 # 🔥 LinkedIn — NYC & New Jersey Analyst Roles
-*Last updated: 2026-10-22 19:41 UTC*
+*Last updated: 2026-10-22 22:42 UTC*
 
-**17 new role(s)** since last run · 18 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Loan IQ Business Analyst](https://www.linkedin.com/jobs/view/4480057996/) — Dexian
+### [Senior Analyst, Analytics](https://www.linkedin.com/jobs/view/4481618152/) — Starcom
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** USD $73,150.00 - USD $112,554.00/Annually
 - 🕒 **Posted:** 2026-10-22
 
-### [Lead Financial Analyst - FP&A](https://www.linkedin.com/jobs/view/4464906605/) — Broadridge
+### [Security Business Analyst | Government Client Experience Must Have | NYC DOE | Brooklyn, NY (Hybrid) | US Citizens Only](https://www.linkedin.com/jobs/view/4480085587/) — Defense In Depth Solutions
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-10-22
+
+### [Associate Director, Analytics](https://www.linkedin.com/jobs/view/4481615329/) — Publicis Collective
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000.00 to $120,000.00 annually
+- 💰 **Salary:** USD $112,290.00 - USD $179,712.00/Annually
 - 🕒 **Posted:** 2026-10-22
 
-### [Deals - FDD Healthcare Revenue Analytics - Senior Associate](https://www.linkedin.com/jobs/view/4465373210/) — PwC
+### [Business Intelligence Developer](https://www.linkedin.com/jobs/view/4480099025/) — Visionary Innovative Technology Solutions LLC
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-22
+
+### [Director, Analytics](https://www.linkedin.com/jobs/view/4481621059/) — Publicis Collective
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $77,000 - $202,000
+- 💰 **Salary:** USD $135,375.00 - USD $216,684.00/Annually
 - 🕒 **Posted:** 2026-10-22
 
-### [Technical Support Analyst](https://www.linkedin.com/jobs/view/4481605166/) — Trimble Transportation
-- 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-10-22
-
-### [Compliance Analyst](https://www.linkedin.com/jobs/view/4445746872/) — Millennium
+### [Data Analyst I](https://www.linkedin.com/jobs/view/4480077819/) — Memorial Sloan Kettering Cancer Center
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $70,000 to $160,000,
+- 💰 **Salary:** $69,400.00 - $107,600.00
 - 🕒 **Posted:** 2026-10-22
 
-### [Director, Operations Analytics & Workforce Strategy](https://www.linkedin.com/jobs/view/4481385792/) — BlinkRx
+### [Senior Analyst - Data & Quality Assurance-Red+F](https://www.linkedin.com/jobs/view/4481614683/) — NYU Langone Health
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $70,481.61 - $121,580.64 Annually
 - 🕒 **Posted:** 2026-10-22
 
-### [Fund Accounting Analyst (contract)](https://www.linkedin.com/jobs/view/4452867103/) — BNY
+### [Financial Analyst - Billing & A/R](https://www.linkedin.com/jobs/view/4481625135/) — NYU Langone Health
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $66,299.99 - $75,000.00 Annually
 - 🕒 **Posted:** 2026-10-22
 
-### [Customs Compliance Analyst](https://www.linkedin.com/jobs/view/4481399380/) — Atlas Consulting Group, LLC.
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $28.00/hr - $32.00/hr
-- 🕒 **Posted:** 2026-10-22
-
-### [Business Analyst](https://www.linkedin.com/jobs/view/4475226164/) — Mitchell Martin Inc.
-- 📍 **Location:** Princeton, NJ
-- 💰 **Salary:** $32.00/hr - $42.00/hr
-- 🕒 **Posted:** 2026-10-22
-
-### [Manager, CRM/Lifecycle Marketing](https://www.linkedin.com/jobs/view/4473292974/) — Daily Mail US
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $110,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Manager, Event Marketing Operations](https://www.linkedin.com/jobs/view/4480577161/) — TheGuarantors
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $125,000 - $140,000 annually
-- 🕒 **Posted:** 2026-10-22
-
-### [Anti-Money Laundering Analyst #1020192](https://www.linkedin.com/jobs/view/4481607140/) — Dexian
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $60.00/hr - $65.00/hr
-- 🕒 **Posted:** 2026-10-22
-
-### [Cybersecurity GRC Analyst](https://www.linkedin.com/jobs/view/4480063942/) — Semperis
-- 📍 **Location:** Hoboken, NJ
-- 🕒 **Posted:** 2026-10-22
-
-### [Analyst - FP&A Gas Operations - New York, NY](https://www.linkedin.com/jobs/view/4481393715/) — VetJobs
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $85,000.00 - $110,000.00
-- 🕒 **Posted:** 2026-10-22
-
-### [FHA Loss Analyst](https://www.linkedin.com/jobs/view/4473926097/) — Freedom Mortgage
+### [Client Technology Lead – Data, Analytics & AI](https://www.linkedin.com/jobs/view/4480077879/) — ChabezTech LLC
 - 📍 **Location:** New Jersey, United States
-- 💰 **Salary:** $43,000.00 - $50,000.00
 - 🕒 **Posted:** 2026-10-22
 
-### [Marketing Operations Coordinator](https://www.linkedin.com/jobs/view/4481600424/) — Locala
+### [Investment Banking Consumer Retail Analyst - New York](https://www.linkedin.com/jobs/view/4481634018/) — Morgan Stanley
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $65,000-85,000
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Data Analytics](https://www.linkedin.com/jobs/view/4481601432/) — LTM
-- 📍 **Location:** New Jersey, United States
-- 💰 **Salary:** $180,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-10-22
