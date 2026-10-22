@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-20 19:59 UTC",
-  "total": 31,
+  "scraped_at": "2026-10-22 19:59 UTC",
+  "total": 34,
   "new_count": 0,
   "jobs": [
     {
@@ -40,18 +40,6 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "State Compensation Insurance Fund",
-      "title": "Financial Analyst I",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534569",
-      "date_posted": "2026-10-06",
-      "salary": "$4469.00 - $6922.00",
-      "ats": "CalCareers",
-      "telework": "Telework",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Department of Insurance",
       "title": "Research Data Analyst I",
       "location": "Los Angeles County",
@@ -60,6 +48,18 @@
       "salary": "$4469.00 - $6922.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "State Compensation Insurance Fund",
+      "title": "Financial Analyst I",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534569",
+      "date_posted": "2026-10-06",
+      "salary": "$4469.00 - $6922.00",
+      "ats": "CalCareers",
+      "telework": "Telework",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
     },
@@ -98,6 +98,18 @@
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "State Controller's Office",
+      "title": "Analyst I",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536273",
+      "date_posted": "2026-10-21",
+      "salary": "$3861.00 - $6276.00",
+      "ats": "CalCareers",
+      "telework": "In Office",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Department of Transportation",
@@ -292,11 +304,35 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "Department of Justice",
+      "title": "Facility & Assets Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532228",
+      "date_posted": "2026-10-22",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "Employment Development Department",
       "title": "Program Analyst",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534282",
       "date_posted": "2026-10-02",
+      "salary": "$3861.00 - $6276.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Employment Development Department",
+      "title": "WIOA Program Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536234",
+      "date_posted": "2026-10-20",
       "salary": "$3861.00 - $6276.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
@@ -325,6 +361,18 @@
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Rehabilitation",
+      "title": "Reasonable Accommodation Program Consultant Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534957",
+      "date_posted": "2026-10-22",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "12 Month Limited Term - Full Time",
       "work_arrangement": "Telecommute eligible"
     },
     {
@@ -358,18 +406,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523099",
       "date_posted": "2026-07-09",
       "salary": "$9574.00 - $10867.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Finance",
-      "title": "Principal Program Budget Analyst II/III - Continuous",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523132",
-      "date_posted": "2026-07-09",
-      "salary": "$10048.00 - $11411.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
